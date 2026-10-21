@@ -72,5 +72,5 @@ Mode LastWriteTime Length Name
 -a---- 19/10/26 10:04 AM 5184 Logo_Trung_Tam.PNG
 ```
 ## Tự chấm (điền sau khi có đáp án)
--  **Điểm tự chấm:** ..../100
+-  **Điểm tự chấm:** 90/100
 -  **Lỗi mình đã mắc và cách sửa:**
